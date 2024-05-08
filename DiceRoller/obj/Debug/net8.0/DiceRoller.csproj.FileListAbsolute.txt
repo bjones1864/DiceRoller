@@ -1,0 +1,14 @@
+C:\Users\miwol\source\repos\DiceRoller\DiceRoller\bin\Debug\net8.0\DiceRoller.exe
+C:\Users\miwol\source\repos\DiceRoller\DiceRoller\bin\Debug\net8.0\DiceRoller.deps.json
+C:\Users\miwol\source\repos\DiceRoller\DiceRoller\bin\Debug\net8.0\DiceRoller.runtimeconfig.json
+C:\Users\miwol\source\repos\DiceRoller\DiceRoller\bin\Debug\net8.0\DiceRoller.dll
+C:\Users\miwol\source\repos\DiceRoller\DiceRoller\bin\Debug\net8.0\DiceRoller.pdb
+C:\Users\miwol\source\repos\DiceRoller\DiceRoller\obj\Debug\net8.0\DiceRoller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miwol\source\repos\DiceRoller\DiceRoller\obj\Debug\net8.0\DiceRoller.AssemblyInfoInputs.cache
+C:\Users\miwol\source\repos\DiceRoller\DiceRoller\obj\Debug\net8.0\DiceRoller.AssemblyInfo.cs
+C:\Users\miwol\source\repos\DiceRoller\DiceRoller\obj\Debug\net8.0\DiceRoller.csproj.CoreCompileInputs.cache
+C:\Users\miwol\source\repos\DiceRoller\DiceRoller\obj\Debug\net8.0\DiceRoller.dll
+C:\Users\miwol\source\repos\DiceRoller\DiceRoller\obj\Debug\net8.0\refint\DiceRoller.dll
+C:\Users\miwol\source\repos\DiceRoller\DiceRoller\obj\Debug\net8.0\DiceRoller.pdb
+C:\Users\miwol\source\repos\DiceRoller\DiceRoller\obj\Debug\net8.0\DiceRoller.genruntimeconfig.cache
+C:\Users\miwol\source\repos\DiceRoller\DiceRoller\obj\Debug\net8.0\ref\DiceRoller.dll
